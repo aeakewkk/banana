@@ -4,6 +4,6 @@ print("Break time.")
 
 import random
 
-for _ in range(6):
-  # print(x)
+for x in range(6):
+  print(x)
   print(random.random())
